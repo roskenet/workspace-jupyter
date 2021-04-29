@@ -2,3 +2,6 @@
 
 ## Know your tools
 
+## Know C, Python and Java
+
+## 
